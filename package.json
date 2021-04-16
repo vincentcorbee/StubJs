@@ -1,0 +1,9 @@
+{
+  "name": "@digitalbranch/stubjs",
+  "version": "1.0.0",
+  "description": "A nodejs stub server for stubbing data and proxying requests.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}

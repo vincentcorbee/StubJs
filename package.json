@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {},
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "jsdoc": "^3.6.6"
   }

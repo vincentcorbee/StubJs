@@ -47,3 +47,8 @@ server.listen(port, host, () =>
   console.log(`Server is running: ${protocol}://${host}:${port}`)
 )
 ```
+
+TODO:
+
+- Code documentation
+- Examples

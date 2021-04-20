@@ -1,4 +1,4 @@
-# Stubjs
+# StubJs
 
 A nodejs stub server for stubbing data and proxying requests.
 

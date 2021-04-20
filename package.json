@@ -2,6 +2,7 @@
   "name": "@digitalbranch/stubjs",
   "version": "1.0.0",
   "description": "A nodejs stub server for stubbing data and proxying requests.",
+  "repository": "https://github.com/vincentcorbee/StubJs",
   "main": "index.js",
   "scripts": {},
   "author": "",

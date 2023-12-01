@@ -16,13 +16,10 @@ const port = 9000
 const mappings = [
   {
     request: {
-      urlPath: '/some-endpoint',
-      method: 'GET',
-      params: {
-        cat: 'cars'
-      }
+      urlPath: '/some-endpoint?cat=cars',
+      method: 'GET'
     },
-    reponse: {
+    response: {
       status: 200,
       headers: {
         'content-type': 'application/json'
